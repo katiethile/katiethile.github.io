@@ -1,11 +1,11 @@
 # Site settings
-author: Katie Le
-title: 
+author: Katie T. Le
+title: Katie's coding journey 
 header-img: img/home-bg.png
 email: lethikatie@gmail.com
-copyright_name: Katie Le
+copyright_name: Katie T. Le
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A documentation of me and coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  katiethile
