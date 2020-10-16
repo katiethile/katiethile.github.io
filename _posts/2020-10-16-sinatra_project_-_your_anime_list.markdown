@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project - Your Anime List!"
-date:       2020-10-16 07:21:30 +0000
+date:       2020-10-16 03:21:30 -0400
 permalink:  sinatra_project_-_your_anime_list
 ---
 
