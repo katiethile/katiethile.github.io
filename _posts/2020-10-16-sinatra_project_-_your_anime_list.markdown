@@ -7,9 +7,12 @@ permalink:  sinatra_project_-_your_anime_list
 
 
 
-**How did I feel initially, before starting the sinatra project? **
 
-ABSOLUTELY TERRIFIED. Ha! I said it. I'm not the fastest learner, and I cannot say that even after doing this project, I understand sinatra 100%, but I somehow got to be able to finish it. Before actually starting this project, I had absolutely no clue what this project was to be consisted of. Until I got to the Fwitter lab! That lab took me a while to figure it out, but in the end, it really help a bit with building my actual project, and I'm glad I was introduced to this lab. 
+
+
+**How did I feel initially, before starting the sinatra project? 
+
+*ABSOLUTELY TERRIFIED*. Ha! I said it. I'm not the fastest learner, and I cannot say that even after doing this project, I understand sinatra 100%, but I somehow got to be able to finish it. Before actually starting this project, I had absolutely no clue what this project was to be consisted of. Until I got to the Fwitter lab! That lab took me a while to figure it out, but in the end, it really help a bit with building my actual project, and I'm glad I was introduced to this lab. 
 
 **The process**
 
