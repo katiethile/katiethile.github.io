@@ -1,9 +1,12 @@
 ---
 layout: post
 title:      "Korean Drama Rails "
-date:       2020-12-25 09:51:46 +0000
+date:       2020-12-25 04:51:46 -0500
 permalink:  korean_drama_rails
 ---
+
+*How did I feel initially beginning this project?*
+Thought it wouldn't be so bad, since it should be similar to sinata... boy was a wrong! I underestimated rails. Never underestimate something you've never done!
 
 
 *What was the most challenging part aobut this project overall?*
